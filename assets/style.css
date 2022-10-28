@@ -37,7 +37,7 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #badd1f;
   color: #000000;
   border-top: 1px dashed #000000;
 }
@@ -65,7 +65,7 @@ textarea {
   color: white;
 }
 
-.saveBtn i:hover {
+.saveBtn:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
@@ -75,6 +75,5 @@ textarea {
 .themed-grid-col {
   padding-top: .75rem;
   padding-bottom: .75rem;
-  background-color: rgba(86, 61, 124, .15);
   border: 1px solid rgba(86, 61, 124, .2);
 }
