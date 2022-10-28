@@ -18,7 +18,7 @@
       href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./assets/style.css" />
     <title>Work Day Scheduler</title>
   </head>
 
@@ -26,13 +26,22 @@
     <header class="jumbotron">
       <h1 class="display-3">Work Day Scheduler</h1>
       <p class="lead">A simple calendar app for scheduling your work day</p>
+      <br>
+      <p id="dow" class="lead"></p>
       <p id="currentDay" class="lead"></p>
     </header>
     <div class="container">
       <!-- Timeblocks go here -->
+      <div class="row mb-3 text-center">
+        <div class="col-lg-3 themed-grid-col">.col-md-3</div>
+        <div class="col-lg-6 themed-grid-col">.col-md-6</div>
+        <div class="col-lg-3 themed-grid-col">.col-md-3</div>
+        
+      </div>
     </div>
-
+    <script src="./assets/timezones.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="./assets/style.js"></script>
   </body>
 </html>
