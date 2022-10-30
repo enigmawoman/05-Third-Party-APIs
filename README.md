@@ -28,7 +28,7 @@ Given starter code, the task was to create a simple calendar application that al
 * THEN the saved events persist
 
 
-The main challenge i faced, was getting to know and understand the logic and syntax of jQuery and Bootstrap, in order to run the functionality ans styling of the calendar. I overcame this by reading forums, looking through tutorials and practising before implementation.
+The main challenge i faced, was getting to know and understand the logic and syntax of jQuery and Bootstrap, in order to run the functionality and styling of the calendar. I overcame this by reading forums and reference books, looking through tutorials and practising before implementation.
 
 I hope to optimize the calendar further in the future, when i have more knowledge on jQuery and bootstrap.
 
