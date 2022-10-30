@@ -39,7 +39,7 @@ I have fully commented the JavaScript files, to explain the flow and logic of th
 
 ## Link to deployed application.
 
-<a href="https://enigmawoman.github.io/04-Web-APIs/">Deployed Work Day Scheduler</a>
+<a href="https://enigmawoman.github.io/05-Third-Party-APIs/">Deployed Work Day Scheduler</a>
 
 ## Screenshot of the finished website 
 
